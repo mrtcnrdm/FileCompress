@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/2ooZU5UTMRz2wkdQKdnMm1edkdd4eBjPA9dCW6YR85o7lkDPRfEqpEaRrB0F2FYcChtAvFZWddZfWPbDKwrA==",
+  "success": true,
+  "projectFilePath": "/Users/mrtcnrdm/Desktop/FileCompress/FileCompress/FileCompress.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrtcnrdm/.nuget/packages/sixlabors.imagesharp/3.1.2/sixlabors.imagesharp.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
